@@ -8375,11 +8375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eszah\\source\\repos\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp.csproj",
+      "projectUniqueName": "C:\\Users\\eszah\\source\\repos\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp.csproj",
       "projectName": "TestAspNetCoreApp",
-      "projectPath": "C:\\Users\\eszah\\source\\repos\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp.csproj",
+      "projectPath": "C:\\Users\\eszah\\source\\repos\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp.csproj",
       "packagesPath": "C:\\Users\\eszah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eszah\\source\\repos\\TestAspNetCoreApp\\TestAspNetCoreApp\\obj\\",
+      "outputPath": "C:\\Users\\eszah\\source\\repos\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

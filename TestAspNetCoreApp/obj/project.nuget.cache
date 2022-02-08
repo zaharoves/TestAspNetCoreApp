@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DtcOOYnK1XteaTy7cHfuJJru6Pfw5p+soQppGYovA3YGlewbXjkhyF3AidBbL3NlR8Vv14v3LgkVBihZlynMqw==",
+  "dgSpecHash": "UCTHjflObst0QJUSdIWS9KDq0oenXAaJ3uLNTGWe7USWi9M3ZIEOCYF00pIvgwwjXmq+PNpoJkxNBOOgROYOtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eszah\\source\\repos\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp.csproj",
+  "projectFilePath": "C:\\Users\\eszah\\source\\repos\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp\\TestAspNetCoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eszah\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",
     "C:\\Users\\eszah\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.1\\microsoft.aspnetcore.cryptography.keyderivation.3.1.1.nupkg.sha512",
